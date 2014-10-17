@@ -19,7 +19,8 @@ where, as above, `sup_contacts` is the output of the googlecl contact
 utility. It will save a file `contacts.txt` which you can copy to your
 sup directory.
 
-Note: googlecl is kind of strange, if you are sending the stdout 
+Note: [googlecl](https://code.google.com/p/googlecl/) is kind of strange, 
+if you are sending the stdout 
 to a file (as above) you need to hit enter once more after executing
 the command, it is waiting on some input (Please specify title) and
 will not start printing contacts until you do so.
