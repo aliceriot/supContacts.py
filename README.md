@@ -1,6 +1,6 @@
 #Sup Addressbook
 
-Getting the sup addressbook to work correctly is a pain in the ass.
+Getting the sup addressbook to work correctly proved a bit difficult.
 I wanted to make my google email contacts available when composing a
 mail from sup.
 
