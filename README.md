@@ -17,7 +17,7 @@ Usage is:
 
 where, as above, `sup_contacts` is the output of the [googlecl](https://code.google.com/p/googlecl/) contact
 utility. It will save a file `contacts.txt` which you can copy to your
-sup directory.
+`.sup` directory.
 
 Note: [googlecl](https://code.google.com/p/googlecl/) is kind of strange, 
 if you are sending the stdout 
