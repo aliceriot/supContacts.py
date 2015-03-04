@@ -13,10 +13,11 @@ your google contacts will autocomplete when starting a new mail.
 
 Usage is:
 
+    ./getContacts.sh
     python supContacts.py sup_contacts
 
 where, as above, `sup_contacts` is the output of the [googlecl](https://code.google.com/p/googlecl/) contact
-utility. It will save a file `contacts.txt` which you can copy to your
+utility (`getContacts.sh` runs the necessary command). It will save a file `contacts.txt` which you can copy to your
 `.sup` directory.
 
 Note: [googlecl](https://code.google.com/p/googlecl/) is kind of strange, 
